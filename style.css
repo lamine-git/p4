@@ -655,7 +655,9 @@ a {
   font-weight: 400;
   color: #000 !important; /*575757*/
 }
-
+.size-p {
+  font-size: 1.2em;
+}
 .container {
   max-width: 1000px;
 }
