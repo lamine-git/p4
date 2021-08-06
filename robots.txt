@@ -1,0 +1,3 @@
+user-agent: *
+disallow:
+# le (*) pour indiquder que c'est tous les moteurs de recherche
